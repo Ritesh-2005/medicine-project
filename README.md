@@ -41,6 +41,23 @@ Open backend in IntelliJ or Spring Tool Suite
 Run the Spring Boot application
 
 Make sure MySQL is running and database is configured correctly.
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home.png)
+
+### Login Page
+![Login page](screenshots/Login.png)
+
+### Sign up page 
+![Signup page](screenshots/Signup.png)
+
+### Cart Page
+![Cart Page](screenshots/Cart.png)
+
+### Product page 
+![Product page](screenshots/Product.png)
+
 
 ## Future Improvements
 
