@@ -1,12 +1,54 @@
-# React + Vite
+# Medicine Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a full-stack web application developed to manage medicine inventory, suppliers, and orders efficiently.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Frontend
+- React
+- Tailwind CSS
+- JavaScript
+- Vite
 
-## Expanding the ESLint configuration
+### Backend
+- Spring Boot
+- Java
+- REST API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Database
+- MySQL
+
+## Features
+
+- Medicine inventory management
+- Supplier management
+- Order tracking
+- Add / Update / Delete medicines
+- User-friendly dashboard
+
+## How to Run the Project
+
+### Frontend
+
+cd frontend
+npm install
+npm run dev
+
+### Backend
+
+Open backend in IntelliJ or Spring Tool Suite
+
+Run the Spring Boot application
+
+Make sure MySQL is running and database is configured correctly.
+
+## Future Improvements
+
+- User Authentication
+- Admin Dashboard
+- Report Generation
+- Analytics and Charts
+
+## Author
+
+Ritesh
